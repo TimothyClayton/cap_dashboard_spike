@@ -34,7 +34,7 @@ $(function(){
       },
       "course02": {
         "name": "A/N/D TPR - The Pre-Adjudication Process (9 Subtopics)",
-        "completed": false,
+        "completed": true,
         "modules": [{
           "module01": {
             "name": "Name of Module 1",
@@ -59,7 +59,7 @@ $(function(){
           },
           "module02": {
             "name": "Name of Module 2",
-            "completed": false,
+            "completed": true,
             "subtopics": [{
               "subtopic01": {
                 "name": "Name of Subtopic 1",
@@ -68,33 +68,33 @@ $(function(){
               },
               "subtopic02": {
                 "name": "Name of Subtopic 2",
-                "completed": false,
+                "completed": true,
                 "timeSpent": "00:15:00"
               },
               "subtopic03": {
                 "name": "Name of Subtopic 3",
-                "completed": false,
+                "completed": true,
                 "timeSpent": "00:15:00"
               },
             }]
           },
           "module03": {
             "name": "Name of Module 3",
-            "completed": false,
+            "completed": true,
             "subtopics": [{
               "subtopic01": {
                 "name": "Name of Subtopic 1",
-                "completed": false,
+                "completed": true,
                 "timeSpent": "00:15:00"
               },
               "subtopic02": {
                 "name": "Name of Subtopic 2",
-                "completed": false,
+                "completed": true,
                 "timeSpent": "00:15:00"
               },
               "subtopic03": {
                 "name": "Name of Subtopic 3",
-                "completed": false,
+                "completed": true,
                 "timeSpent": "00:15:00"
               },
             }]

@@ -1,0 +1,13 @@
+.subtopics-complete {
+  margin-left: 15px;
+}
+
+.module-list {
+  list-style-type: none;
+}
+
+.module-complete,
+.course-complete {
+  font-size: 20px;
+  color: #00FA9A;
+}
